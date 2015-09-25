@@ -1,0 +1,23 @@
+.label {
+	font-size: 0.5em;
+	margin-top: 5px;
+}
+
+.label-disease {
+}
+
+.label-medicine {
+}
+
+
+.table-column {
+	padding: 20px 30px 20px 30px;
+}
+
+.table-admin {
+	background-color: #7E7E7E;
+	color: #ffffff;
+}
+.table-admin a{
+	color: #ffffff;
+}

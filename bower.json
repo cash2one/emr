@@ -1,0 +1,28 @@
+{
+  "name": "emr",
+  "version": "0.0.0",
+  "authors": [
+    "刘嘉一 <lcx.seima@gmail.com>"
+  ],
+  "description": "emr",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "emr"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "ionicons": "~2.0.1",
+    "fontawesome": "~4.4.0"
+  }
+}
